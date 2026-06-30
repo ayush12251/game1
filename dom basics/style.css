@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+}
+#color-box{
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+#generate-btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  
+}
+div{
+  padding-top: 120px;
+}

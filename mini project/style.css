@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+.square{
+    width:200px;
+    height:200px;
+    display: inline-block;
+    margin: 10px;
+    font-size: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+    line-height: 180px;
+}
+.game{
+    display: flex;
+    height: 400px;
+    width: 450px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    margin:auto;
+}
+#red{
+    background-color: rgb(186, 47, 70);
+}
+#blue{
+    background-color: lightblue;
+}
+#green{
+    background-color: lightgreen;
+}
+#yellow{
+    background-color: rgb(220, 144, 4);
+}
+.flash{
+    background-color: white !important;
+}
+.userflash{
+    background-color: black !important;
+}
